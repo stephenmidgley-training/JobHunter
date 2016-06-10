@@ -1,4 +1,6 @@
 __author__ = 'stephenmidgley'
+
+#new version
 from selenium import webdriver
 import time
 import datetime
@@ -412,7 +414,6 @@ with open('TodaysJob.csv', 'w') as csvfile:
 
 
 
-#This is a test
 
 #Load the existing excel sheet
 wb = load_workbook("AllJobs.xlsx")
