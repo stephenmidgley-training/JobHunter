@@ -411,7 +411,8 @@ with open('TodaysJob.csv', 'w') as csvfile:
             pass
 
 
-print "Created File"
+
+#This is a test
 
 #Load the existing excel sheet
 wb = load_workbook("AllJobs.xlsx")
