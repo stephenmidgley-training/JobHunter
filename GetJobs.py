@@ -1,6 +1,6 @@
 __author__ = 'stephenmidgley'
 
-#new version
+#new version 2.2
 from selenium import webdriver
 import time
 import datetime
